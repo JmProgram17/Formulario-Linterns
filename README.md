@@ -1,2 +1,2 @@
-# Formulario-Linterns
-Proyecto con linterns
+<<<<<<< HEAD
+# Proyecto_formulario
